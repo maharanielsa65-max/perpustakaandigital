@@ -13,3 +13,4 @@ Berikut ini adalah Koleksi yang dimiliki:
 9. [Pendidikan Agama Islam](ebook/Pendidikan Agama Islam.pdf) - Andi Asari, dkk (2023)
 10. [Sistem Informasi Manajemen](ebook/Sistem Informasi Manajemen.pdf) - Adi Robith Setiana (2019)
 11. [Sistem Politik Indonesia](ebook/Sistem Politik Indonesia.pdf) - Sahya Anggara (2013)
+12. [Tugas 2 Rangkuman UGC PATI](ebook/Tugas 2 Rangkuman UGC PATI.pdf) - Elsa Maharani (2026)
