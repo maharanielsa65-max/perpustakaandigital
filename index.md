@@ -1,4 +1,11 @@
 # Digital Library
+
+Nama: Elsa Maharani
+
+NIM: 13040124130098
+
+Kelas: C
+
 Selamat Datang di Perpustakaan Digital
 Berikut ini adalah Koleksi yang dimiliki:
 ## Koleksi
